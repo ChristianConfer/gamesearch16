@@ -1,0 +1,12 @@
+db.PublisherData.insert(
+    
+    [
+        { name: EA},
+        { name: Nintendo},
+        { name: Sony},
+        { name: Microsoft},
+        { name: Ubisoft,
+        { name: Activision},
+        { name: Capcom},
+    ]
+)
